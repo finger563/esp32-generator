@@ -1,0 +1,23 @@
+{
+  "name": "esp32-generator",
+  "version": "1.0.0",
+  "description": "Generate project settings, build files, etc. for the ESP32 from within javascript.",
+  "main": "esp32-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finger563/esp32-generator.git"
+  },
+  "keywords": [
+    "esp32",
+    "generator"
+  ],
+  "author": "William Emfinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finger563/esp32-generator/issues"
+  },
+  "homepage": "https://github.com/finger563/esp32-generator#readme"
+}
